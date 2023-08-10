@@ -5,11 +5,12 @@
 * NextJS
 * HTML
 * CSS
+* Javascript
 * TailwindCSS
 * NodeJS
 * ExpressJS
 * MongoDB-Mongoose
-* FireBase
+* Firebase-Firestore
 * MySQL-PlanetScale
 
 ## HyperMonk Games Website
