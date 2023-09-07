@@ -17,7 +17,7 @@
 
 ![HM](https://github.com/muefdo/websites-i-made/assets/112949938/53fe91b5-ed03-431f-a271-a8066a0b8b56)
 
-## Bradi.tech Website
+## Bradi Tech Website - bradi.tech
 
 ![bradi-tech-website](https://github.com/muefdo/websites-i-made/assets/112949938/f52bff70-a8dd-482c-9765-76a9eeb2a724)
 
