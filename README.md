@@ -11,6 +11,7 @@
 * ExpressJS
 * MongoDB-Mongoose
 * Firebase-Firestore
+* SupaBase - Supabase Storage, Edge Funcitons
 * MySQL-PlanetScale
 
 ## HyperMonk Games Website - Nextjs, ReactJS, TailwindCSS
@@ -24,6 +25,10 @@
 ![bradi3](https://github.com/muefdo/websites-i-made/assets/112949938/11113b9b-3f49-4696-a7af-4c3152f68ab3)
 # Old
 ![bradi-tech-website](https://github.com/muefdo/websites-i-made/assets/112949938/f52bff70-a8dd-482c-9765-76a9eeb2a724)
+
+## Craftcon Studios - Nextjs, ReactJS, TailwindCSS
+
+![screencapture-craftcon-co-2024-02-23-12_27_10](https://github.com/muefdo/websites-i-made/assets/112949938/5b4fb535-aac6-4ec4-97c8-3a1684e9e0aa)
 
 
 ## Aidatlar.com -ReactJS, TailwindCSS, MaterialUI, MongoDB, NodeJS, ExpressJS
