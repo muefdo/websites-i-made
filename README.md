@@ -1,17 +1,18 @@
 # Websites that i made 
 ### For creating full-stack and front-end projects i mostly used this technologies
 
+* Javascript
 * ReactJS
 * NextJS
+* TailwindCSS
+* Supabase - Supabase Storage, Edge Funcitons
 * HTML
 * CSS
-* Javascript
-* TailwindCSS
 * NodeJS
 * ExpressJS
 * MongoDB-Mongoose
+* Prisma as ORM
 * Firebase-Firestore
-* SupaBase - Supabase Storage, Edge Funcitons
 * MySQL-PlanetScale
 
 ## HyperMonk Games Website - Nextjs, ReactJS, TailwindCSS
