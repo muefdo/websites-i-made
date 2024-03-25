@@ -13,7 +13,8 @@
 * MongoDB-Mongoose
 * Prisma as ORM
 * Firebase-Firestore
-* MySQL-PlanetScale
+* MySQL
+* PostgreSQL
 
 ## HyperMonk Games Website - Nextjs, ReactJS, TailwindCSS
 
