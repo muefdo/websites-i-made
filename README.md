@@ -1,5 +1,6 @@
 # Websites that i made 
-### For creating full-stack and front-end projects i mostly used this technologies
+
+### For creating Full-Stack and Front-End projects, I mostly use these technologies.
 
 * Javascript
 * ReactJS
