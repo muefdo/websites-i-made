@@ -17,7 +17,7 @@
 * MySQL
 * PostgreSQL
 
-## go.bradi.tech | bradiGO - Nextjs, ReactJS, TailwindCSS, ShadcnUI, PrismaORM, TypeScript, PostgreSQL
+## go.bradi.tech | bradiGO - Nextjs, ReactJS, TailwindCSS, ShadcnUI, PrismaORM, TypeScript, PostgreSQL, Clerk Auth
 ![image](https://github.com/muefdo/websites-i-made/assets/112949938/336e3f82-9cf0-43fe-aae9-beb3e24ea6cf)
 ![image](https://github.com/muefdo/websites-i-made/assets/112949938/a34c6a9f-1d42-4135-b0e3-44d0605d934c)
 
