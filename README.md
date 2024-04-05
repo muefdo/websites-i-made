@@ -17,6 +17,11 @@
 * MySQL
 * PostgreSQL
 
+## go.bradi.tech | bradiGO - Nextjs, ReactJS, TailwindCSS, ShadcnUI, PrismaORM, TypeScript, PostgreSQL
+![image](https://github.com/muefdo/websites-i-made/assets/112949938/336e3f82-9cf0-43fe-aae9-beb3e24ea6cf)
+![image](https://github.com/muefdo/websites-i-made/assets/112949938/a34c6a9f-1d42-4135-b0e3-44d0605d934c)
+
+
 ## HyperMonk Games Website - Nextjs, ReactJS, TailwindCSS
 
 ![HM](https://github.com/muefdo/websites-i-made/assets/112949938/53fe91b5-ed03-431f-a271-a8066a0b8b56)
