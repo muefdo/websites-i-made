@@ -1,4 +1,4 @@
-# Websites that i made 
+# Websites I made 
 
 ### For creating Full-Stack and Front-End projects, I mostly use these technologies.
 
