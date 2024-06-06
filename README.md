@@ -2,10 +2,10 @@
 
 ### For creating Full-Stack and Front-End projects, I mostly use these technologies.
 
-* Javascript
+* JavaScript - TypeScript
 * ReactJS
 * NextJS
-* TailwindCSS
+* TailwindCSS, ShadcnUI, MUI
 * Supabase - Supabase Storage, Edge Funcitons
 * HTML
 * CSS
